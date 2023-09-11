@@ -39,6 +39,5 @@ div{
 }
 main{
     display: grid;
-
-    flex-direction: row;
+    flex-direction: 
 }
