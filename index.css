@@ -19,6 +19,7 @@ a{
     text-decoration: none;
     border: 1px solid red;
 }
+<<<<<<< HEAD
 div{
     color: white;
     border-radius: 50%;
@@ -27,4 +28,13 @@ div{
 
 div{
     display: flex;
+=======
+
+div{
+    display: flex;
+    flex-direction: row;
+}
+main{
+    display: grid;
+>>>>>>> test
 }
