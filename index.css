@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-size: 62.5%;
 }
+body{
+    font-size: 20rem;
+    background-position-x: 100rem;
+}
