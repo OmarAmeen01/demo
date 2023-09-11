@@ -19,22 +19,25 @@ a{
     text-decoration: none;
     border: 1px solid red;
 }
-<<<<<<< HEAD
 div{
     color: white;
     border-radius: 50%;
     width: 20rem;
     height: 50rem;
+}
 
+}
 div{
     display: flex;
-=======
+}
 
+
+}
 div{
     display: flex;
     flex-direction: row;
 }
 main{
     display: grid;
->>>>>>> test
+
 }
