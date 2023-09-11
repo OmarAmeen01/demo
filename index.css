@@ -3,16 +3,11 @@
     margin: 0;
     box-sizing: border-box;
     font-size: 62.5%;
-<<<<<<< HEAD
 }
 body{
     font-size: 20rem;
    
     background-position-x: 100rem;
-
-<<<<<<< HEAD
-=======
->>>>>>> parent of 0d57f3f (stylised body)
-=======
->>>>>>> d680b1d5d6e981619e9d3e4ae3c8ad40c40cd2a1
+padding: 1rem;
+margin:12rem;
 }
