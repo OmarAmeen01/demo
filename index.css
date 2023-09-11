@@ -3,8 +3,13 @@
     margin: 0;
     box-sizing: border-box;
     font-size: 62.5%;
+<<<<<<< HEAD
 }
 body{
     font-size: 20rem;
+   
     background-position-x: 100rem;
+
+=======
+>>>>>>> parent of 0d57f3f (stylised body)
 }
