@@ -15,3 +15,7 @@ h1{
 p{
     font-size: 20rem;
 }
+a{
+    text-decoration: none;
+    border: 1px solid red;
+}
